@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Ashish Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76429473?s=400&u=cfa3f743fce2f1d9be0b77d03c4e446c1e17fc4b&v=4",
+		"email": "2020kucp1008@iiitkota.ac.in",
+		"phone": "7897535136",
+		"website": "",
+		"summary": "I am a Student of Indian Institute Of Information Technology Kota (India), pursuing my B.Tech in Computer Science And Engineering . Learning from various Fields like Competitive Programming and Web Development .",
+		"location": {
+			"address": "Hindalco Colony",
+			"postalCode": "---",
+			"city": "Renukoot , Sonbhadra",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://twitter.com/AshishK26308718"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/ASHISHKUMAR2411"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/ashish-kumar-3100b3201"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/thats_ashishkr/"
+			}
+		]
+	},
+	"work": [{
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": [""]
+	}],
+	"volunteer": [{
+		"organization": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "08-12-2020",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": ""
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "Node", "C/C++", "PHP","Git","Java","MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football"]
+	}],
+	"references": []
+}
