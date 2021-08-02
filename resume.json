@@ -16,22 +16,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "AshishK26308718",
 				"url": "https://twitter.com/AshishK26308718"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "ASHISHKUMAR2411",
 				"url": "https://github.com/ASHISHKUMAR2411"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "ashish-kumar-3100b3201",
 				"url": "https://www.linkedin.com/in/ashish-kumar-3100b3201"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "thats_ashishkr",
 				"url": "https://www.instagram.com/thats_ashishkr/"
 			}
 		]
