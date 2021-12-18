@@ -43,7 +43,7 @@
 		"startDate": "Oct-2021",
 		"endDate": "Oct-2021",
 		"summary": "It was Virtual Experience Program at JP Morgan Chase & Co. The task was to complete 3 assignments which gives an idea or more likely what software engineers actually do at the company.",
-		"highlights": ["Python","React"]
+		"highlights": ["Python,React"]
 	}],
 	"volunteer": [{
 		"organization": "",
@@ -71,7 +71,8 @@
 			      "studyType": "AISSCE",
 			      "startDate": "2018",
 			      "endDate": "2020",
-			      "percentage": "96 %",
+			      "gpa": "96 %",
+			      "courses": []
 		      },
 		      {
 			   "institution": "Nirmala Convent Senior Secondary School, Renukoot",
@@ -79,7 +80,8 @@
 			      "studyType": "AISSE",
 			      "startDate": "2017",
 			      "endDate": "2018",
-			      "percentage": "96.6 %",   
+			      "gpa": "96.6 %",
+			      "courses": []
 		      }],
 	"awards": [{
 		"title": "",
