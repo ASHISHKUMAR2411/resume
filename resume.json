@@ -80,7 +80,7 @@
 			"studyType": "AISSE",
 			"startDate": "2017",
 			"endDate": "2018",
-			"gpa": "96.6%",
+			"percentage": "96.6%",
 			"courses": []
 		}
 	],
@@ -96,7 +96,7 @@
 	}],
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "Node", "C/C++", "PHP", "Git", "Java", "MySQL"]
+		"keywords": [ "C++","Python","Javascript","React","C","HTML", "CSS", "Node", "PHP", "Git", "MySQL", "DBMS","Data Structure", "Algorithm", "OOP"]
 	}],
 	"interests": [{
 		"name": "Sports",
