@@ -2,23 +2,19 @@
 	"basics": {
 		"name": "Ashish Kumar",
 		"label": "Student",
-		"picture": "https://avatars.githubusercontent.com/u/76429473?s=400&u=cfa3f743fce2f1d9be0b77d03c4e446c1e17fc4b&v=4",
+		"picture": "https://media.licdn.com/dms/image/D4D03AQG3nOU5vLALSw/profile-displayphoto-shrink_800_800/0/1671480074091?e=1687996800&v=beta&t=5ipfXZLiQGojC9JowmTStOT8-Gwixxbb-JIvotcTLFo",
 		"email": "2020kucp1008@iiitkota.ac.in",
 		"phone": "7897535136",
 		"website": "",
 		"summary": "I am a Student of Indian Institute Of Information Technology Kota (India), pursuing my B.Tech in Computer Science And Engineering . Learning from various Fields like Competitive Programming and Web Development .",
 		"location": {
 			"address": "Hindalco Colony",
-			"postalCode": "---",
+			"postalCode": "231217",
 			"city": "Renukoot , Sonbhadra",
 			"countryCode": "India",
 			"region": "Uttar Pradesh"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "AshishK26308718",
-				"url": "https://twitter.com/AshishK26308718"
-			},
+		"profiles": [
 			{
 				"network": "Github",
 				"username": "ASHISHKUMAR2411",
@@ -28,21 +24,16 @@
 				"network": "linkedin",
 				"username": "ashish-kumar-3100b3201",
 				"url": "https://www.linkedin.com/in/ashish-kumar-3100b3201"
-			},
-			{
-				"network": "Instagram",
-				"username": "thats_ashishkr",
-				"url": "https://www.instagram.com/thats_ashishkr/"
 			}
 		]
 	},
 	"work": [{
-		"company": "Forage",
-		"position": "Virtual Experience At JP Morgan Chase & Co.",
-		"website": "",
-		"startDate": "Oct-2021",
-		"endDate": "Oct-2021",
-		"summary": "It was Virtual Experience Program at JP Morgan Chase & Co. The task was to complete 3 assignments based on Python, React which gives an idea or more likely what software engineers actually do at the company.",
+		"company": "Awishcar.com",
+		"position": "Web Developer Intern",
+		"website": "https://www.awishcar.com/",
+		"startDate": "Mar-2022",
+		"endDate": "Jun-2022",
+		"summary": "Worked on improving websites and did requirement analysis on SaaS products alongside, initiated & developed business required documents for the SaaS products which required product analysis of their modules, and worked on initiating and improvising product timelines and estimations.",
 		"highlights": []
 	}],
 	"volunteer": [{
@@ -55,7 +46,7 @@
 		"highlights": []
 	}],
 	"education": [{
-			"institution": "Indian Institute of Information technology,kota",
+			"institution": "Indian Institute of Information Technology, Kota",
 			"area": "Engineering",
 			"studyType": "Bachelor (hons)",
 			"startDate": "08-12-2020",
@@ -85,9 +76,14 @@
 		}
 	],
 	"awards": [{
-		"title": "",
-		"awarder": "",
-		"date": ""
+		"title": "GoDaddy Sponsor Winner At Hacking Heist 2.0 (Hackathon)",
+		"awarder": "GoDaddy",
+		"date": "24-06-2022"
+	}, 
+		   {
+		"title": "FlipKart Grid 4.0 (Semi-Finalist)",
+		"awarder": "UnStop",
+		"date": "2-12-2022"
 	}],
 	"publications": [{
 		"title": "",
@@ -96,7 +92,7 @@
 	}],
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": [ "C++","Python","Javascript","React","C","HTML", "CSS", "Node", "PHP", "Git", "MySQL", "DBMS","Data Structure", "Algorithm", "OOP"]
+		"keywords": [ "C++","Python","Javascript","React","HTML", "CSS", "Node", "PHP", "Git", "MySQL", "Database Management","Data Structure", "Algorithm", "MongoDB", "Solidity", "Ethereum"]
 	}],
 	"interests": [{
 		"name": "Sports",
