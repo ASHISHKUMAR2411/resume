@@ -78,20 +78,19 @@
 	}],
 	"publications": [{
 		"title": "Project - FLipY - NFTs MarketPlace For ECommerce Website",
-		"details": "▸An Ecommerce Web app which transfers Warranty Cards as NFTs on a blockchain network. \
-                            ▸Features: \
-		                → Transfer and Prove Authencity of Product on Resale with decaying NFTs of Warranty Cards \
-                                → Uses Smart Contract, and MarketPlace to view, buy and sell. \
-                            ▸This project was part of Flipkart Grid 4.0 2022, in which our team was the top 1% participant. \
-                            ▸Tech: Solidity, Hardhat, Nodejs, React, MongoDB, OpenSea, Alchemy, Pinata, Openzeppelin, Remix, Metamask.",
+		"details": ["▸An Ecommerce Web app which transfers Warranty Cards as NFTs on a blockchain network. ","▸Features:",
+		                "→ Transfer and Prove Authencity of Product on Resale with decaying NFTs of Warranty Cards ",
+                                "→ Uses Smart Contract, and MarketPlace to view, buy and sell. ",
+                            "▸This project was part of Flipkart Grid 4.0 2022, in which our team was the top 1% participant.",
+                            "▸Tech: Solidity, Hardhat, Nodejs, React, MongoDB, OpenSea, Alchemy, Pinata, Openzeppelin, Remix, Metamask."],
 		"link": "https://github.com/ASHISHKUMAR2411/Blockchain-based-eCommerce-Warranty-system-fg4"
 	}, 
 			{
 		"title": "Project - VoiceForm",
-		"details": "▸An Online Form which uses voice to fill in details.  \
-                            ▸Part of a hackathon(Hacking Heist 2.0), in which my team won the sponsor title of GoDaddy. \
-                            ▸This project was part of Flipkart Grid 4.0 2022, in which our team was the top 1% participant. \
-                            ▸Tech: React, AlanAI, HTML, CSS",
+		"details": ["▸An Online Form which uses voice to fill in details.",
+                            "▸Part of a hackathon(Hacking Heist 2.0), in which my team won the sponsor title of GoDaddy.",
+                            "▸This project was part of Flipkart Grid 4.0 2022, in which our team was the top 1% participant. ",
+                            "▸Tech: React, AlanAI, HTML, CSS"],
 		"link": "https://devfolio.co/projects/voiceform-676e"
 	}],
 	"skills": [{
